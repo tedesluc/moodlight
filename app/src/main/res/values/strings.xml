@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moodlight</string>
+    <string name="app_title">Moodlight Remote Control</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="white_label">white</string>
+    <string name="red_label">red</string>
+    <string name="green_label">green</string>
+    <string name="blue_label">blue</string>
+    <string name="idle_label">idle</string>
+
+    <string name="colorPicker_label">Start Color Picker</string>
+    <string name="colorPicker_send">OK and Send</string>
+    <string name="synch_label">Synch Now</string>
+    <string name="TX_label">Send now</string>
+    <string name="RX_label">Received</string>
+
+    <string name="nothing">---------</string>
+
+</resources>
